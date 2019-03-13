@@ -1,2 +1,2 @@
 # DesignPatterns
-Coursera Design Patterns from Univeristy of Alberta
+* Design Patterns by Univeristy of Alberta - Coursera.
